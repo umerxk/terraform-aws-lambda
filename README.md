@@ -26,8 +26,8 @@ This repository demonstrates how to deploy an AWS Lambda function using **Terraf
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/umerxk/terraform-aws-lambda.git
+cd terraform-aws-lambda.git
 
 ### 2. Set Up AWS Credentials
 export AWS_ACCESS_KEY_ID="your-access-key-id"
